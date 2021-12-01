@@ -1,3 +1,5 @@
 # Clicker
 Autor Maciej Czaicki/Macixx
-Version 0.2 - 01.12.21
+Version 0.2 
+Date 01.12.21
+
